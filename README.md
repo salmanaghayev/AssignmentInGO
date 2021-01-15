@@ -1,4 +1,4 @@
-# Assignemt in GO
+# Assignment in GO
 
 ## About The Project
 
